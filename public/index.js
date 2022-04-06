@@ -8,7 +8,7 @@ var request;
 var gettingData = false;
 
 //Please make sure to replace this key with another API key that you can get for free at https://openweathermap.org/
-var openWeatherMapKey = "40eac2c4a9ad8a312a59e46f4867c804";
+var openWeatherMapKey = "192682c55c143d903d0a6075b241b4b6";
 
 
 /* SETTING LONGITUDE AND LATITUDE */
